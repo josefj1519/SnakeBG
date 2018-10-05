@@ -2,7 +2,8 @@
 
 SnakeBG is a 1v1 snake game that use WASD and IJKL to control.  
 You create your own levels and it saves in a folder on your desktop for the purpose of demonstration.  
-Goal of game is to eat the other snake, but you can only intersect on the yellow parts of the snake.  
+Goal of game is to eat the other snake, but you can only intersect on the yellow parts of the snake. 
+GameDriver and SoundDriver classes were made by Jonathan Gonzales
 
 **Title screen:**
 
